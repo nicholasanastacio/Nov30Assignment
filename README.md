@@ -6,3 +6,5 @@ Welcome to my project. I hope you have fun while you're here.
 I guess you're still here, huh?
 
 You do know I can charge rent, right?
+
+Well, I guess I can make some cookies since you're still here.
